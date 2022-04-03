@@ -16,7 +16,8 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 
 After performing the above analysis the results are captured in the notebook and presentation.
 
-Contributors:
+## Contributors:
 
-Palla Mohana Silpa
-Jonnadula Venkateswarlu
+**Palla Mohana Silpa 
+
+**Jonnadula Venkateswarlu
