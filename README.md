@@ -6,12 +6,11 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 
 ## Approach followed to solve above mentioned business problem
 - Using Exploratory Data Analysis we performed the following steps :
-- Data Handling
-- Data Cleaning
-- Data Visualization 
--   Univariate Analysis
--   Bivariate Analysis
--   Derived Metrics
+Step 1: Data Cleaning 1
+Step 2: Univariate Analysis
+Step 3: Segemented Univariate Analysis
+Step 4: Bivaraiate/Multivariate Analysis
+Step 5: Results
 
 
 After performing the above analysis the results are captured in the notebook and presentation.
