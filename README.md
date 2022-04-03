@@ -18,6 +18,6 @@ After performing the above analysis the results are captured in the notebook and
 
 ## Contributors:
 
-#### Palla Mohana Silpa
+### Palla Mohana Silpa
 
-#### Jonnadula Venkateswarlu
+### Jonnadula Venkateswarlu
